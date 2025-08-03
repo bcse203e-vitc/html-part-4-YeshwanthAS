@@ -1,0 +1,22 @@
+h1{
+    font-size: xx-large;
+    color:rgb(1, 1, 21);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h5{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: gray;
+}
+article{
+    width: 50%;
+    border: 3px solid green;
+    text-align: left;
+}
+
+button{
+    color: white;
+    background-color: blue;
+}
+button :hover{
+    background-color: black;
+}
